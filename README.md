@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**CaptainHPY/CaptainHPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hello, world! 👋🌍
 
 My name is Peiyan He, and I'm a student in AI from Beijing University of Technology,China!
