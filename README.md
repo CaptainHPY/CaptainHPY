@@ -8,9 +8,7 @@ Here's a bit about me:
 - 🌱 I'm currently learning: C++,Python,Advanced Mathematics,Linear Algebra
 - 💡 I'm interested in: Basketball,Magic Cube,Videogames
 - 💬 Ask me about: 
-- 📫 How to reach me: Phone Number:15810265197
-                       E-mail:3438371073@qq.com
-                       Wechat:hpy041026
+- 📫 How to reach me: 3438371073@qq.com
 ## 👷 My GitHub account is:CaptainHPY
 
 Thanks for stopping by, and feel free to reach out if you'd like to collaborate!
