@@ -9,6 +9,7 @@ Here's a bit about me:
 - 💡 I'm interested in: Basketball,Magic Cube,Videogames
 - 💬 Ask me about: 
 - 📫 How to reach me: 3438371073@qq.com
+-                      hepeiyan@emails.bjut.edu.cn
 ## 👷 My GitHub account is:CaptainHPY
 
 Thanks for stopping by, and feel free to reach out if you'd like to collaborate!
