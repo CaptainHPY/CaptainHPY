@@ -6,7 +6,7 @@ Here's a bit about me:
 
 - 👩‍💻 I'm currently working on:The development of AI agent
 - 🌱 I'm currently learning: C++,Python,React
-- 💡 I'm interested in: Basketball,Magic Cube,Videogames
+- 💡 I'm interested in: basketball,magic cube,videogames
 - 💬 Ask me about: 
 - 📫 How to reach me: hepeiyan1026@gmail.com,3438371073@qq.com or hepeiyan@emails.bjut.edu.cn
 ## 👷 My GitHub account is:CaptainHPY
