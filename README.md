@@ -1,6 +1,6 @@
 # Hello, world! 👋🌍
 
-My name is Peiyan He, and I'm a student in AI from Beijing University of Technology,China!
+My name is Leo He(He Peiyan), and I'm a student in AI from Beijing University of Technology,China!
 
 Here's a bit about me:
 
