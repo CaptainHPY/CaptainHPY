@@ -4,7 +4,7 @@ My name is Leo He(He Peiyan), and I'm a student in AI from Beijing University of
 
 Here's a bit about me:
 
-- 👩‍💻 I'm currently working on:A school-level scientific research program
+- 👩‍💻 I'm currently working on:The development of AI agent
 - 🌱 I'm currently learning: C++,Python,React
 - 💡 I'm interested in: Basketball,Magic Cube,Videogames
 - 💬 Ask me about: 
